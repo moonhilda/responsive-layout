@@ -1,0 +1,4 @@
+interface:
+  display_name: "Responsive Layout"
+  short_description: "Prepare responsive Figma layouts, then scale frames"
+  default_prompt: "Use $responsive-layout to prepare the frames in this approved Figma section, validate their responsive behavior, and request source approval before creating scaled versions."
